@@ -9,7 +9,7 @@
 
 #### Resumo da Obra:
 ```console
-void setup() // Setar o pino 12 como saída usando o camando pinMode({pino}, {INPUT | OUTPUT})
+void setup() // Setar o pino 12 como saída usando o comando pinMode({pino}, {INPUT | OUTPUT})
 void loop()  // Setar o pino 12 em nível lógico alto (LIGADO). Esperar... Setar o pino 12 em nível lógico baixo (DESLIGAR). Esperar..
 ```
 
